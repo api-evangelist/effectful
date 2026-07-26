@@ -1,0 +1,27 @@
+generated: '2026-07-19'
+method: searched
+source: https://github.com/Effect-TS/effect/releases
+scheme: semver
+release_tooling: changesets
+notes: >-
+  The Effect ecosystem is a Changesets-managed monorepo. Each package
+  (`effect`, `@effect/platform`, `@effect/sql`, ...) is versioned and released
+  independently on npm, and every release is published as a dated GitHub
+  Release with per-package changelog entries. The core `effect` package is on
+  the 3.x stable line (3.22.0) with a 4.0.0 line in active beta. Captured window
+  reflects the most recent releases as of 2026-07-19.
+current:
+  core_stable: 3.22.0
+  core_next: 4.0.0-beta.99
+entries:
+  - version: effect@4.0.0-beta.99
+    date: '2026-07-17'
+    breaking: true
+    highlights:
+      - Next-major (v4) beta line published across the monorepo (platform, sql, vitest, cluster, rpc).
+  - version: effect@3.22.0
+    date: '2026-07'
+    breaking: false
+    highlights:
+      - Current stable release of the core `effect` standard library.
+docs: https://github.com/Effect-TS/effect/releases

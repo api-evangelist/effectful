@@ -1,0 +1,210 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.npmjs.com/org/effect
+notes: >-
+  Effectful Technologies ships the Effect ecosystem as first-party TypeScript
+  libraries published to npm. The core package is published unscoped as `effect`;
+  every other library uses the official `@effect/*` scope. Versions captured from
+  the npm registry latest dist-tag on 2026-07-19. @effect/schema is deprecated —
+  its schema module was folded into the core `effect` package.
+packages:
+  - language: typescript
+    registry: npm
+    name: effect
+    version: 3.22.0
+    url: https://www.npmjs.com/package/effect
+    install: npm install effect
+    description: The missing standard library for TypeScript, for writing production-grade software.
+    repository: https://github.com/Effect-TS/effect
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/platform"
+    version: 0.97.0
+    url: https://www.npmjs.com/package/@effect/platform
+    install: npm install @effect/platform
+    description: Unified interfaces for common platform-specific services (HTTP, filesystem, sockets).
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/platform-node"
+    version: 0.108.0
+    url: https://www.npmjs.com/package/@effect/platform-node
+    install: npm install @effect/platform-node
+    description: Platform-specific implementations for the Node.js runtime.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/platform-browser"
+    version: 0.77.0
+    url: https://www.npmjs.com/package/@effect/platform-browser
+    install: npm install @effect/platform-browser
+    description: Platform-specific implementations for the browser.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/platform-bun"
+    version: 0.91.0
+    url: https://www.npmjs.com/package/@effect/platform-bun
+    install: npm install @effect/platform-bun
+    description: Platform-specific implementations for the Bun runtime.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/platform-node-shared"
+    version: 0.61.0
+    url: https://www.npmjs.com/package/@effect/platform-node-shared
+    install: npm install @effect/platform-node-shared
+    description: Shared platform-specific service implementations for Node-like runtimes.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/sql"
+    version: 0.52.0
+    url: https://www.npmjs.com/package/@effect/sql
+    install: npm install @effect/sql
+    description: A SQL toolkit for Effect.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/sql-pg"
+    version: 0.53.0
+    url: https://www.npmjs.com/package/@effect/sql-pg
+    install: npm install @effect/sql-pg
+    description: A PostgreSQL toolkit for Effect.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/sql-mysql2"
+    version: 0.53.0
+    url: https://www.npmjs.com/package/@effect/sql-mysql2
+    install: npm install @effect/sql-mysql2
+    description: A MySQL toolkit for Effect.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/sql-sqlite-node"
+    version: 0.53.0
+    url: https://www.npmjs.com/package/@effect/sql-sqlite-node
+    install: npm install @effect/sql-sqlite-node
+    description: A SQLite toolkit for Effect (Node.js).
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/rpc"
+    version: 0.76.0
+    url: https://www.npmjs.com/package/@effect/rpc
+    install: npm install @effect/rpc
+    description: A framework for building remote procedure call (RPC) systems with Effect.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/cli"
+    version: 0.76.0
+    url: https://www.npmjs.com/package/@effect/cli
+    install: npm install @effect/cli
+    description: A library for building command-line interfaces with Effect.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/cluster"
+    version: 0.60.0
+    url: https://www.npmjs.com/package/@effect/cluster
+    install: npm install @effect/cluster
+    description: Unified interfaces for common cluster-specific services.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/ai"
+    version: 0.37.0
+    url: https://www.npmjs.com/package/@effect/ai
+    install: npm install @effect/ai
+    description: Effect modules for working with AI provider APIs.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/ai-openai"
+    version: 0.41.0
+    url: https://www.npmjs.com/package/@effect/ai-openai
+    install: npm install @effect/ai-openai
+    description: Effect modules for working with the OpenAI API.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/ai-anthropic"
+    version: 0.27.0
+    url: https://www.npmjs.com/package/@effect/ai-anthropic
+    install: npm install @effect/ai-anthropic
+    description: Effect modules for working with the Anthropic API.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/opentelemetry"
+    version: 0.64.0
+    url: https://www.npmjs.com/package/@effect/opentelemetry
+    install: npm install @effect/opentelemetry
+    description: OpenTelemetry integration for Effect.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/experimental"
+    version: 0.61.0
+    url: https://www.npmjs.com/package/@effect/experimental
+    install: npm install @effect/experimental
+    description: Experimental modules for the Effect ecosystem.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/typeclass"
+    version: 0.41.0
+    url: https://www.npmjs.com/package/@effect/typeclass
+    install: npm install @effect/typeclass
+    description: A collection of reusable typeclasses for the Effect ecosystem.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/printer"
+    version: 0.50.0
+    url: https://www.npmjs.com/package/@effect/printer
+    install: npm install @effect/printer
+    description: An extensible pretty-printer for rendering documents.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/vitest"
+    version: 0.30.0
+    url: https://www.npmjs.com/package/@effect/vitest
+    install: npm install @effect/vitest
+    description: A set of helpers for testing Effects with Vitest.
+    license: MIT
+    official: true
+  - language: typescript
+    registry: npm
+    name: "@effect/schema"
+    version: 0.75.5
+    url: https://www.npmjs.com/package/@effect/schema
+    install: npm install @effect/schema
+    description: Modeling the schema of data structures as first-class values. Deprecated — merged into the core `effect` package.
+    license: MIT
+    official: true
+    deprecated: true

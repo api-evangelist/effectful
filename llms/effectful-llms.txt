@@ -1,0 +1,50 @@
+# Effectful Technologies
+
+> Effectful Technologies builds the Effect ecosystem — a set of open-source TypeScript
+> libraries for writing production-grade software. The flagship `effect` library is a
+> composable standard library and execution engine that unifies error handling, resource
+> management, concurrency, dependency injection, observability, and testability. Effect is
+> described by the company as "Layer 0" of a broader vision extending into distributed
+> systems: RPC, SQL, clustering, and durable execution. Distributed via npm; not an HTTP API.
+
+## About
+- Company: Effectful Technologies
+- Product ecosystem: Effect (open source, MIT)
+- Backed by: Amplify Partners
+- Corporate site: https://effectful.co
+- Product site & docs: https://effect.website
+
+## Docs
+- Documentation: https://effect.website/docs
+- Getting started: https://effect.website/docs (Getting Started section)
+- Blog: https://effect.website/blog
+- Effect Days conference: https://effect.website/events/effect-days
+
+## Source
+- GitHub organization: https://github.com/Effect-TS
+- Core monorepo: https://github.com/Effect-TS/effect
+- Examples: https://github.com/Effect-TS/examples
+- Language service (LSP): https://github.com/Effect-TS/language-service
+
+## Packages (npm, official)
+- effect — https://www.npmjs.com/package/effect
+- @effect/platform — https://www.npmjs.com/package/@effect/platform
+- @effect/platform-node — https://www.npmjs.com/package/@effect/platform-node
+- @effect/platform-browser — https://www.npmjs.com/package/@effect/platform-browser
+- @effect/platform-bun — https://www.npmjs.com/package/@effect/platform-bun
+- @effect/sql — https://www.npmjs.com/package/@effect/sql
+- @effect/rpc — https://www.npmjs.com/package/@effect/rpc
+- @effect/cli — https://www.npmjs.com/package/@effect/cli
+- @effect/cluster — https://www.npmjs.com/package/@effect/cluster
+- @effect/ai — https://www.npmjs.com/package/@effect/ai
+- @effect/opentelemetry — https://www.npmjs.com/package/@effect/opentelemetry
+- @effect/vitest — https://www.npmjs.com/package/@effect/vitest
+
+## Community
+- Discord: https://discord.gg/effect-ts
+- X / Twitter: https://x.com/EffectTS_
+
+## Catalog (API Evangelist)
+- Packages / SDKs: packages/effectful-packages.yml
+- Changelog: changelog/effectful-changelog.yml
+- Domain security: security/effectful-domain-security.yml

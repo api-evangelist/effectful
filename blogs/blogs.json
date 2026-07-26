@@ -1,0 +1,18 @@
+{
+  "repo": "effectful",
+  "feeds": [
+    {
+      "source": "https://effect.website/blog/rss.xml",
+      "error": "HTTPError"
+    },
+    {
+      "source": "https://effect.website/docs",
+      "feed_url": "https://effect.website/docs",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-07-25T15:00:33Z"
+}
