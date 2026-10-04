@@ -48,8 +48,8 @@ tags:
 - Company
 - Developer Tools
 - TypeScript
-- Libraries
-- Open-Source
+- Library
+- Open Source
 - Functional Programming
 - SDK
 - Observability
@@ -64,6 +64,7 @@ tags_raw:
 - SDKs
 - Observability
 - Concurrency
+- Open-Source
 apis: []
 maintainers:
 - FN: Kin Lane
